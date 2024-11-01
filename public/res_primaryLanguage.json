@@ -1,0 +1,26 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm AbdulKabir Sulaiman. A versatile software developer skilled in delivering fast and scalable web applications. Passionate about building impactful software that solves real-world problems.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+     
+    ],
+    "experience": [
+      {
+        "company": "techNL",
+        "title": "Engagement Coordinator",
+        "years": "03.2023 - present",
+        "mainTech": [
+        ],
+        "technologies": [
+        ]
+      }
+    ]
+  }
